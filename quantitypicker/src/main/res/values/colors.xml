@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="btn_green_normal">#2FCE71</color>
+    <color name="btn_icn_white_normal">#ffffff</color>
+    <color name="btn_green_disable">#C5EFD7</color>
+
+    <color name="btn_icn_white_disable">#44ffffff</color>
+
+    <color name="textColor">#2C3440</color>
+</resources>
